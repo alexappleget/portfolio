@@ -472,17 +472,17 @@ section {
 }
 
 .skill-bar .bar .html {
-    width: 72%;
+    width: 89%;
     animation: html 2s;
 }
 
 .skill-bar .bar .css {
-    width: 59%;
+    width: 80%;
     animation: css 3s;
 }
 
 .skill-bar .bar .javascript {
-    width: 34%;
+    width: 67%;
     animation: javascript 4s;
 }
 
@@ -777,7 +777,7 @@ footer a i {
         width: 0%;
     }
     100% {
-        width: 72%;
+        width: 89%;
     }
 }
 
@@ -786,7 +786,7 @@ footer a i {
         width: 0%;
     }
     100% {
-        width: 59%;
+        width: 80%;
     }
 }
 
@@ -795,7 +795,7 @@ footer a i {
         width: 0%;
     }
     100% {
-        width: 34%;
+        width: 67%;
     }
 }
 
